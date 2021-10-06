@@ -16,4 +16,4 @@ It is developed in JavaScript on [https://replit.com/](https://replit.com/@AliAm
 
 #### Screenshot
 
-![images](snapshot.PNG)
+![images](images/snapshot.PNG)
